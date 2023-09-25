@@ -14,8 +14,6 @@
 
 - 📝 I regularly write articles on [Google Scholar](https://scholar.google.com/citations?user=RoWUdywAAAAJ&hl=en)
 
-- 💬 Ask me anything on [<img src="https://www.svgviewer.dev/static-svgs/401523/telegram.svg" alt="telegram" height="16" width="16" /> ](https://t.me/alcstat)
-
 - 📫 How to reach me over email **alcstat@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -26,6 +24,7 @@
 <a href="https://kaggle.com/alcstat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
 <a href="https://huggingface.co/alcstat/" target="blank"><img align="center" src="https://www.svgrepo.com/show/396671/hugging-face.svg" alt="huggingface" height="30" width="40" /></a>
 <a href="https://twitter.com/alcstat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://t.me/alcstat" target="blank"><img align="center" src="https://www.svgviewer.dev/static-svgs/401523/telegram.svg" alt="telegram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
