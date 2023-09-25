@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [Google Scholar](https://scholar.google.com/citations?user=RoWUdywAAAAJ&hl=en)
 
-- 💬 Ask me anything on [Telegram](https://t.me/alcstat)
+- 💬 Ask me anything on [<img src="https://www.svgviewer.dev/static-svgs/401523/telegram.svg" alt="telegram" /> ](https://t.me/alcstat)
 
 - 📫 How to reach me over email **alcstat@outlook.com**
 
