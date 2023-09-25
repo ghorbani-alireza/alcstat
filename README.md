@@ -1,24 +1,22 @@
-### Welcome to Alireza Ghorbani's github profiel!
+### Welcome to Alireza Ghorbani's GitHub profile!
 
 
 ## A few things about me
 
-- 💻 I'm web developer, designer, content creator and student
-- 📍 I'm from India
-- 🕸️ I am passionate about building websites with Next.js
+- 💻 I'm a statistician, AI enthusiast, and student
+- 📍 I'm from Iran
+- 🕸️ I am passionate about deploying statistical and AI tools to solve nowadays problems.
 - 🤝 I like to meet new people
-- 🎾 I like to play all sports and play tennis on a daily basis
-- 🤓 I like to learn about new tech and blog about it on [Hashnode](https://hashnode.com/@avneesh0612). If you want to read my blogs, click [here](https://blog.avneesh.tech)
 
 ## 📫 How to reach me?
 
-Feel free to reach me out on any platforms [here](https://links.avneesh.tech/)
+Feel free to reach me on any platforms [here](https://alcstat.github.io/)
 
 ## 📈 GitHub Stats
 <br>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=avneesh0612&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avneesh0612&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alcstat&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alcstat&theme=radical" />
 </p>
 
 ## 📰 My Latest Blog Posts
