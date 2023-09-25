@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [sentiment analysis of Farsi text](https://github.com/alcstat/sentiment_analysis_persian)
 
-- 🤝 I like to meet new people -- [My Personal Page](https://alcstat.github.io/)
+- 🤝 I like to meet new people -- [my personal page](https://alcstat.github.io/)
 
 - 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/alcstat?tab=repositories)
 
