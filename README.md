@@ -1,49 +1,21 @@
 ### Welcome to Alireza Ghorbani's GitHub profile!
 
 
-## A few things about me
+# A few things about me
 
 - 💻 I'm a statistician, AI enthusiast, and student
 - 📍 I'm from Iran
 - 🕸️ I am passionate about deploying statistical and AI tools to solve nowadays problems.
 - 🤝 I like to meet new people
 
-## 📫 How to reach me?
+# 📫 How to reach me?
 
 Feel free to reach me on any platforms [here](https://alcstat.github.io/)
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 <br>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alcstat&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alcstat&theme=radical" />
-</p>
-
-## 📰 My Latest Blog Posts
-
-<!-- HASHNODE_BLOG:START -->
-<p align="left">
-<a href="https://blog.avneesh.tech//what-is-solana-pay-and-how-to-use-it-in-your-nextjs-app" title="An Introduction to Solana Pay and how to Integrate it into Your Next.js App"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679990122582/2d888a78-55c9-49cd-9f9e-1a8c02b21425.png" alt="An Introduction to Solana Pay and how to Integrate it into Your Next.js App" width="250px" align="left" /></a>
-<a href="https://blog.avneesh.tech//what-is-solana-pay-and-how-to-use-it-in-your-nextjs-app" title="An Introduction to Solana Pay and how to Integrate it into Your Next.js App"><strong>An Introduction to Solana Pay and how to Integrate it into Your Next.js App</strong></a>
-<br/> In this guide we'll walk through the following:
-
-What is Solana Pay?
-
-When to use Solana Pay?
-
-How to use Solana Pay in a next.js app and create an app where people can scan a QR code to buy SPL tokens in exchange for SOL
-
-
-By the end of this guide, ... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.avneesh.tech//how-to-add-web3-sign-in-with-thirdweb" title="How to add web3 sign-in with thirdweb ✨"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1662279178924/qro13Ocnd.png" alt="How to add web3 sign-in with thirdweb ✨" width="250px" align="left" /></a>
-<a href="https://blog.avneesh.tech//how-to-add-web3-sign-in-with-thirdweb" title="How to add web3 sign-in with thirdweb ✨"><strong>How to add web3 sign-in with thirdweb ✨</strong></a>
-<br/> Introduction
-Why use web3 sign-in?
-Sign-in with Ethereum allows you to securely log in using a wallet and verify the wallet on the backend! We are going to use Thirdweb Auth which uses the very popular JWT standard! JSON Web Token (JWT) is an open st... </p> <br/> <br/>
-<!-- HASHNODE_BLOG:END -->
-
-<p align="center">  
-<a href="https://blog.avneesh.tech/"><img src="https://user-images.githubusercontent.com/76690419/142756081-13352f92-8482-4a86-acbb-72dc164e8746.png" alt="Read more" width="200"/></a>
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=alcstat&theme=radical" />
 </p>
 
