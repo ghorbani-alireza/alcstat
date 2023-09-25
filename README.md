@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **anything about my projects**
 
-- 📫 How to reach me **https://t.me/alcstat**
+- 📫 How to reach me over email **alcstat@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
