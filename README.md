@@ -24,16 +24,11 @@
 
 
 <a href="https://linkedin.com/in/alcstat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-
-<a href="https://www.researchgate.net/profile/Alireza-Ghorbani-3?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoiX2RpcmVjdCJ9fQ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/2048px-ResearchGate_icon_SVG.svg.png" alt="researchgate" height="30" width="40" /></a>
-
+<a href="https://www.researchgate.net/profile/Alireza-Ghorbani-3?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoiX2RpcmVjdCJ9fQ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/2048px-ResearchGate_icon_SVG.svg.png" alt="researchgate" height="30" width="30" /></a>
 <a href="https://twitter.com/alcstat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-
 <a href="https://kaggle.com/alcstat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
-
-<a href="https://huggingface.co/alcstat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="huggingface" height="30" width="40" /></a>
-
-<a href="https://scholar.google.com/citations?user=RoWUdywAAAAJ&hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="google-scholar" height="30" width="40" /></a>
+<a href="https://huggingface.co/alcstat/" target="blank"><img align="center" src="https://www.svgrepo.com/show/396671/hugging-face.svg" alt="huggingface" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?user=RoWUdywAAAAJ&hl=en" target="blank"><img align="center" src="https://www.clipartmax.com/png/middle/117-1179104_hsb-google-scholar-icon-png.png" alt="google-scholar" height="30" width="40" /></a>
 
 </p>
 
