@@ -2,11 +2,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Alireza</h1>
-<h3 align="center">An AI & statistics enthusiast from Iran</h3>
+<h3 align="center">AI & Statistics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alcstat&label=Profile%20views&color=0e75b6&style=flat" alt="alcstat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alcstat" alt="alcstat" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/alcstat" target="blank"><img src="https://img.shields.io/twitter/follow/alcstat?logo=twitter&style=for-the-badge" alt="alcstat" /></a> </p>
 
