@@ -1,9 +1,10 @@
-<h1 align="left">Hi 👋, I'm Alireza. Welcome to my GitHub profile</h1>
+<h1 align="left">Hi 👋, I'm Alireza [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width: 1em; margin-inline-start: 1em" alt="ORCID icon"/>](https://orcid.org/0009-0002-8037-7977). Welcome to my GitHub profile</h1>
 <h3 align="left">AI & Statistics</h3>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=alcstat&label=Profile%20views&color=0e75b6&style=flat" alt="alcstat" /> 
 </p>
+ 
 
 
 - 👨‍💻 I’m currently working on [sentiment analysis of Farsi text](https://github.com/alcstat/sentiment_analysis_persian)
