@@ -24,7 +24,7 @@
 <a href="https://huggingface.co/alcstat/" target="blank"><img align="center" src="https://www.svgrepo.com/show/396671/hugging-face.svg" alt="huggingface" height="30" width="40" /></a>
 <a href="https://twitter.com/alcstat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://t.me/alcstat" target="blank"><img align="center" src="https://www.svgviewer.dev/static-svgs/401523/telegram.svg" alt="telegram" height="40" width="40" /></a>
- <a href="https://orcid.org/0009-0002-8037-7977" target="blank"><img align="center" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="orcid" height="40" width="40" /></a>
+ <a href="https://orcid.org/0009-0002-8037-7977" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:ORCID_iD.svg" alt="orcid" height="40" width="40" /></a>
 </p>
 
 
