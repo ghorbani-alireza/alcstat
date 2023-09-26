@@ -17,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://orcid.org/0009-0002-8037-7977" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/768px-ORCID_iD.svg.png?20190308043226" alt="orcid" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/alcstat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://www.researchgate.net/profile/Alireza-Ghorbani-3?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoiX2RpcmVjdCJ9fQ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/2048px-ResearchGate_icon_SVG.svg.png" alt="researchgate" height="30" width="30" /></a>
 <a href="https://scholar.google.com/citations?user=RoWUdywAAAAJ&hl=en" target="blank"><img align="center" src="https://storage.scolary.com/storage/file/public/2cd20ed1-980e-4f1b-a403-17202f904f95.svg" alt="google-scholar" height="50" width="50" /></a>
@@ -24,7 +25,6 @@
 <a href="https://huggingface.co/alcstat/" target="blank"><img align="center" src="https://www.svgrepo.com/show/396671/hugging-face.svg" alt="huggingface" height="30" width="40" /></a>
 <a href="https://twitter.com/alcstat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://t.me/alcstat" target="blank"><img align="center" src="https://www.svgviewer.dev/static-svgs/401523/telegram.svg" alt="telegram" height="40" width="40" /></a>
- <a href="https://orcid.org/0009-0002-8037-7977" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/768px-ORCID_iD.svg.png?20190308043226" alt="orcid" height="40" width="40" /></a>
 </p>
 
 
