@@ -7,13 +7,13 @@
  
 
 
-- 👨‍💻 I’m currently working on [sentiment analysis of Farsi text](https://github.com/alcstat/sentiment_analysis_persian)
+- 👨‍💻 I’m currently working on [sentiment analysis of Farsi text](https://github.com/alcstat/sentiment_analysis_persian).
 
 - 🤝 I like to meet new people. Here is my personal [webpage](https://alcstat.github.io/).
 
-- 📝 I regularly write articles on [Google Scholar](https://scholar.google.com/citations?user=RoWUdywAAAAJ&hl=en)
+- 📝 I regularly write articles on [Google Scholar](https://scholar.google.com/citations?user=RoWUdywAAAAJ&hl=en).
 
-- 📫 How to reach me over email **alcstat@outlook.com**
+- 📫 How to reach me over email: **alcstat@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
