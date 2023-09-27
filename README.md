@@ -7,7 +7,7 @@
  
 
 
-- 👨‍💻 I’m currently working on [sentiment analysis of Farsi text](https://github.com/alcstat/sentiment_analysis_persian).
+- 👨‍💻 I’m currently working as Market Research Analyst & Statistician at [Zarrin ROya GC](https://www.zarrinroya.com/en).
 
 - 🤝 I like to meet new people. Here is my [personal webpage](https://alcstat.github.io/).
 
