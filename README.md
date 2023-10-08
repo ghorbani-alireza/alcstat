@@ -35,3 +35,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alcstat&show_icons=true&locale=en&layout=compact" alt="alcstat" />
 </p>
 
+<p>
+<img align="right" src="https://camo.githubusercontent.com/de49c8e7feeab478d59d28378ad829b70309cc4c29ee048f2689dfe5efbb8a11/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d616c63737461742673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="alcstat" />
+</p>
+
+
