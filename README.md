@@ -2,25 +2,25 @@
 <h3 align="left">AI & Statistics</h3>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=alcstat&label=Profile%20views&color=0e75b6&style=flat" alt="alcstat" /> 
+<img src="https://komarev.com/ghpvc/?username=ghorbani-alireza&label=Profile%20views&color=0e75b6&style=flat" alt="ghorbani-alireza" /> 
 </p>
  
 
 
 - 👨‍💻 I’m currently working as Market Research Analyst & Statistician at [Zarrin Roya GC](https://www.zarrinroya.com/en).
 
-- 🤝 I like to meet new people. Here is my [personal webpage](https://alcstat.github.io/).
+- 🤝 I like to meet new people. Here is my [personal webpage](https://ghorbani-alireza.github.io/).
 
 - 📫 How to reach me over email: **alcstat@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/alcstat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ghorbanialireza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://www.researchgate.net/profile/Alireza-Ghorbani-3?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoiX2RpcmVjdCJ9fQ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/2048px-ResearchGate_icon_SVG.svg.png" alt="researchgate" height="30" width="30" /></a>
 <a href="https://scholar.google.com/citations?user=RoWUdywAAAAJ&hl=en" target="blank"><img align="center" src="https://storage.scolary.com/storage/file/public/2cd20ed1-980e-4f1b-a403-17202f904f95.svg" alt="google-scholar" height="50" width="50" /></a>
-<a href="https://kaggle.com/alcstat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
-<a href="https://huggingface.co/alcstat/" target="blank"><img align="center" src="https://www.svgrepo.com/show/396671/hugging-face.svg" alt="huggingface" height="30" width="40" /></a>
+<a href="https://kaggle.com/ghorbanialireza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
+<a href="https://huggingface.co/ghorbanialireza/" target="blank"><img align="center" src="https://www.svgrepo.com/show/396671/hugging-face.svg" alt="huggingface" height="30" width="40" /></a>
 
 </p>
 
@@ -32,7 +32,7 @@
 
 
 <p>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alcstat&show_icons=true&locale=en&layout=compact" alt="alcstat" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghorbani-alireza&show_icons=true&locale=en&layout=compact" alt="ghorbani-alireza" />
 </p>
 
 
