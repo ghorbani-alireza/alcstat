@@ -11,7 +11,7 @@
 
 - 🤝 I like to meet new people. Here is my [personal webpage](https://ghorbani-alireza.github.io/).
 
-- 📫 How to reach me over email: **alcstat@outlook.com**
+- 📫 How to reach me over email: **ghorbanialireza@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
