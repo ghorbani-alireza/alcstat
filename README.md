@@ -18,7 +18,7 @@
 
 <a href="https://linkedin.com/in/ghorbanialireza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://www.researchgate.net/profile/Alireza-Ghorbani-3?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoiX2RpcmVjdCJ9fQ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/2048px-ResearchGate_icon_SVG.svg.png" alt="researchgate" height="30" width="30" /></a>
-<a href="https://scholar.google.com/citations?user=RoWUdywAAAAJ&hl=en" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" alt="google-scholar" height="50" width="50" /></a>
+<a href="https://scholar.google.com/citations?user=RoWUdywAAAAJ&hl=en" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" alt="google-scholar" height="30" width="30" /></a>
 <a href="https://kaggle.com/ghorbanialireza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
 <a href="https://huggingface.co/ghorbanialireza/" target="blank"><img align="center" src="https://www.svgrepo.com/show/396671/hugging-face.svg" alt="huggingface" height="30" width="40" /></a>
 
