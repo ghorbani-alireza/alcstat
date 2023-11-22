@@ -7,9 +7,9 @@
  
 
 
-- 👨‍💻 I’m currently working as Market Research Analyst & Statistician at [Zarrin Roya GC](https://www.zarrinroya.com/en).
+- 👨‍💻 I’m a Statistician at [Zarrin Roya GC](https://www.zarrinroya.com/en).
 
-- 🤝 I like to meet new people. Here is my [personal webpage](https://ghorbani-alireza.github.io/).
+- 🤝 Here is my [personal webpage](https://ghorbani-alireza.github.io/).
 
 - 📫 How to reach me over email: **ghorbanialireza@outlook.com**
 
