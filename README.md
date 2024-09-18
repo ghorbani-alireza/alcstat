@@ -7,7 +7,7 @@
  
 
 
-- 👨‍💻 I’m a Statistician at [Zarrin Roya GC](https://www.zarrinroya.com/en).
+- 👨‍💻 I’m a Senior Data Science Specialist at [Zarrin Roya GC](https://www.zarrinroya.com/en).
 
 - 🤝 Here is my [personal webpage](https://ghorbani-alireza.github.io/).
 
