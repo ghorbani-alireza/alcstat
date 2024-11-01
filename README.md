@@ -7,7 +7,7 @@
  
 
 
-- 👨‍💻 I’m an MSc student at [Ludwig Maximilian University of Munich](https://www.lmu.de/en/).
+- 👨‍💻 I’m an MSc student at [Ludwig Maximilian University](https://www.lmu.de/en/) (LMU Munich).
 
 - 🤝 Here is my [personal webpage](https://ghorbani-alireza.github.io/).
 
