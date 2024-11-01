@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Alireza. Welcome to my GitHub profile</h1>
-<h3 align="left">Data Science & Statistics</h3>
+<h3 align="left">Statistics & Epidemiology</h3>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=ghorbani-alireza&label=Profile%20views&color=0e75b6&style=flat" alt="ghorbani-alireza" /> 
@@ -7,7 +7,7 @@
  
 
 
-- 👨‍💻 I’m an MSc student at [Ludwig Maximilian University](https://www.lmu.de/en/) (LMU Munich).
+- 👨‍💻 I’m an MSc student in Epidemiology at [Ludwig Maximilian University](https://www.lmu.de/en/) (LMU Munich).
 
 - 🤝 Here is my [personal webpage](https://ghorbani-alireza.github.io/).
 
