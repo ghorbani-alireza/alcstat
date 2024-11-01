@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Alireza. Welcome to my GitHub profile</h1>
-<h3 align="left">AI & Statistics</h3>
+<h3 align="left">Data Science & Statistics</h3>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=ghorbani-alireza&label=Profile%20views&color=0e75b6&style=flat" alt="ghorbani-alireza" /> 
@@ -7,7 +7,7 @@
  
 
 
-- 👨‍💻 I’m a Senior Data Science Specialist at [Zarrin Roya GC](https://www.zarrinroya.com/en).
+- 👨‍💻 I’m an MSc student at [Ludwig Maximilian University of Munich](https://www.lmu.de/en/).
 
 - 🤝 Here is my [personal webpage](https://ghorbani-alireza.github.io/).
 
